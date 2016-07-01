@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="contact">Contacto</string>
+    <string name="about">Acerca de</string>
+    <string name="setting">Configurar Cuenta</string>
+
+
+</resources>
